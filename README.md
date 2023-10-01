@@ -23,7 +23,7 @@ Hello-Rails-Back-End: "A Rails Back-End API for Greeting App"
 - [Acknowledgments](#acknowledgments) 🙏
 - [License](#license) 📄
 
-## This is the Back-End for Greeting App -> find [link to Front-End](https://github.com/Cosmosha/hello-react-front-end)</a>
+## This is the Back-End for Greeting App -> find [link to Front-End](https://github.com/Cosmosha/hello-react-front-end repo)</a>
 
 <!-- TECH STACK -->
 
